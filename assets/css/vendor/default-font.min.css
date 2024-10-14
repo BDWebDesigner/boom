@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Default';
+    src: url('../../fonts/default-font/Default-Light.woff') format('woff'), url('../../fonts/default-font/Default-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Default';
+    src: url('../../fonts/default-font/Default-Regular.woff') format('woff'), url('../../fonts/default-font/Default-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Default';
+    src: url('../../fonts/default-font/Default-Bold.woff') format('woff'), url('../../fonts/default-font/Default-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Default';
+    src: url('../../fonts/default-font/Default-Extrabold.woff') format('woff'), url('../../fonts/default-font/Default-Extrabold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Default';
+    src: url('../../fonts/default-font/Default-Black.woff') format('woff'), url('../../fonts/default-font/Default-Black.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Default';
+    src: url('../../fonts/default-font/Default-Heavy.woff') format('woff'), url('../../fonts/default-font/Default-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal
+}
